@@ -12,7 +12,7 @@ Now you have a compiler, but no libraries. You need readline, openssl, libconfig
 
 Then Clone GitHub Repository in Cygwin Terminal
 
-     git clone --recursive https://github.com/vysheng/tg.git
+     git clone --recursive https://github.com/s4jj4d021/tg.git
 
 
 In Cygwin Terminal, type: 
